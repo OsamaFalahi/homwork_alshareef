@@ -33,7 +33,6 @@ run.bat
 python src/digit-recognition.py
 ```
 
-### على Linux/Mac:
 
 ## كيفية الاستخدام
 
