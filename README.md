@@ -34,13 +34,6 @@ python src/digit-recognition.py
 ```
 
 ### على Linux/Mac:
-```bash
-./run.sh
-```
-أو
-```bash
-python src/digit-recognition.py
-```
 
 ## كيفية الاستخدام
 
